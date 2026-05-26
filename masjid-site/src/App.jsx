@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import MasjidApp from "./MasjidApp";
-import admin from "./admin";
+import Admin from "./admin";
 import VideoGallery from './components/Videos';
 // Inside your <Routes> component, add:
 
@@ -16,7 +16,7 @@ function App() {
         <Route path="/videos" element={<VideoGallery />} />
 
         {/* Admin dashboard */}
-        <Route path="/admin" element={<admin />} />
+        <Route path="/admin" element={<Admin />} />
       </Routes>
     </Router>
   );
