@@ -1,0 +1,2 @@
+ "https://tlgnovmyjcphekhxjeaq.supabase.co",
+  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InRsZ25vdm15amNwaGVraHhqZWFxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgwNTU0OTMsImV4cCI6MjA5MzYzMTQ5M30.kfizD9MItqEcVU6TkXFPByzutHrIrz-tTl7UfOHmUjY"
