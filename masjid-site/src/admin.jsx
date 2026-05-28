@@ -353,6 +353,9 @@ function Section({ title, id, children }) {
   return <section id={id} style={{ padding: "36px 20px", maxWidth: 980, margin: "0 auto" }}><h2 style={{ color: "#0f3d2e", marginBottom: "18px", textAlign: "center" }}>{title}</h2>{children}</section>;
 }
 
+export default Admin;
+
+
 const navStyle = { background: "white", padding: "14px 18px", display: "flex", justifyContent: "space-between", alignItems: "center", position: "sticky", top: 0, zIndex: 1000, boxShadow: "0 2px 10px rgba(0,0,0,0.06)" };
 const navLinksStyle = { flexDirection: "column", gap: "10px", background: "white", padding: "10px", position: "absolute", top: "56px", right: "18px", borderRadius: "8px", boxShadow: "0 2px 8px rgba(0,0,0,0.08)" };
 const navLinkStyle = { textDecoration: "none", color: "#374151", fontWeight: 600, fontSize: "14px" };
